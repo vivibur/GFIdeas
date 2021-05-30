@@ -3,11 +3,11 @@ name: "Gluten Free Ideas"
 title: "Gluten Free Ideas"
 description: "A site to learn how to cook easy GF recipes."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: /gfideas
 google_analytics: 'UA-46278016-1'
 disqus: 'gfideas'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
