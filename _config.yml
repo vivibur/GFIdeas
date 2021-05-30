@@ -6,18 +6,18 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /gfideas
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'gfideas'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Vivi
+  vivi:
+    name: Viviana Burijson
     display_name: Vivi
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: vivi-fg@gmail.com
+    email: vivi-gf@gmail.com
     web: https://www.gfideas.com
     twitter: https://twitter.com/gf-ideas
     description: "Author of GF Ideas."
