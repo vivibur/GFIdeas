@@ -20,6 +20,9 @@ Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium
 1. Boil the eggs. 
 2. Let the hardboiled egg/s cool down. Then chop it/them in small cubes.
 3. Wash and peel the carrots and remove their top and bottom (link to image).  Shred the carrots.  
+
+![Peeled Carrots]({{ site.baseurl }}/assets/images/peeled_carrots.jpg)
+
 4. Place the carrots in a bowl and add lemon juice so that the carrots don’t change their color (oxidize).
 5. Add the eggs to the carrots
 6. Finally, season with oil, salt and pepper to taste and enjoy!  
