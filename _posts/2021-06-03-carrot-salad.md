@@ -2,7 +2,7 @@
 layout: post
 title:  "Carrot Salad"
 categories: [ vegan, gf, easy ]
-image: assets/images/IMG_5575
+image: assets/images/carrot-salad.jpg
 traits: GF, VE, V, P, NS, DF, LS-A
 ---
 
