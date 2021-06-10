@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Short Ribs Plate"
-categories: [ vegan, gf]
+categories: [ gf, sugar-free, dairy-free ]
 image: assets/images/shortribs-plate.jpg
-traits: GF, P, NS, LS-A
+traits: GF, DF, SF
 ---
-
-Gluten Free, Dairy Free, Sugar Free
-
 
 ## Ingredients
 

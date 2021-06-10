@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Tomatillo and Avocado Sauce"
-categories: [ vegan, gf]
+categories: [ vegan, gf, dairy-free ]
 image: assets/images/shortribs-plate.jpg
-traits: GF, P, V, LS-A
+traits: GF, DF, VN
 ---
-
-Gluten Free, Dairy Free, Vegan
-
 
 This is a very simple recipe to prepare a tasty sauce that goes well with meats, fish, in sandwiches, tacos and burritos.
 
@@ -23,7 +20,6 @@ This is a very simple recipe to prepare a tasty sauce that goes well with meats,
 * 1/2 avocado (ripe)
 
 
-	
 ## Preparation
 
 1. Wash the tomatillos.
