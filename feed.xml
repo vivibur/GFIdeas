@@ -1,30 +1,511 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Gluten Free Ideas</title>
+    <description>A site to learn how to cook easy GF recipes.</description>
+    <link>/gfideas/</link>
+    <atom:link href="/gfideas/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Jun 2021 18:47:17 -0700</pubDate>
+    <lastBuildDate>Mon, 14 Jun 2021 18:47:17 -0700</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Tomatillo and Avocado Sauce</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
+
+&lt;p&gt;This is a very simple recipe to prepare a tasty sauce that goes well with meats, fish, in sandwiches, tacos and burritos.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 medium size tomatillos&lt;/li&gt;
+  &lt;li&gt;1 tbsp cilantro, chopped&lt;/li&gt;
+  &lt;li&gt;1 handful of fresh cilantro&lt;/li&gt;
+  &lt;li&gt;1 head of garlic&lt;/li&gt;
+  &lt;li&gt;2 jalapeños (optional, if you like it spicy)&lt;/li&gt;
+  &lt;li&gt;1 tbsp lime juice&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+  &lt;li&gt;1/2 avocado (ripe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wash the tomatillos.&lt;/li&gt;
+  &lt;li&gt;Cut the top of the garlic head.&lt;/li&gt;
+  &lt;li&gt;If cooked in the BBQ, preheat to high temperature. Place the tomatillos, the garlic and the jalapeños in the BBQ for 2 minutes on each side.&lt;/li&gt;
+  &lt;li&gt;If cooked in the oven, turn on the broiler. Place the tomatillos, the garlic and the jalapeños on a baking sheet in the middle rack for 3 minutes on each side.&lt;/li&gt;
+  &lt;li&gt;The tomatillos are ready when charred on both sides, but do not let them get too soft. The garlic is ready when soft, when you can poke with the knife with no resistance. Finally, with the jalapeños it doesn’t matter if it is soft or not.&lt;/li&gt;
+  &lt;li&gt;Let the tomatillos, garlic and the jalapeños cool down.&lt;/li&gt;
+  &lt;li&gt;In a blender place the tomatillos, jalapeños, 1/4 avocado, 4 cloves of garlic (or more, to taste), salt, 1 handful of cilantro, lime juice and blend.&lt;/li&gt;
+  &lt;li&gt;Place the mix in a bowl, add 1/4 avocado diced, the chopped cilantro, additional lime juice and salt to taste.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!!!&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 05 Jul 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/tomatillo-avocado-sauce/</link>
+        <guid isPermaLink="true">/gfideas/tomatillo-avocado-sauce/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Grilled Peppers</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
+
+&lt;p&gt;Grilled peppers can be served as a side dish as you can see in the short ribs plate picture, in sandwiches, and as pizza topping. It is very easy to prepare and is preserved in oil.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;6 Peppers&lt;/li&gt;
+  &lt;li&gt;oil (we use canola oil, but others work well)&lt;/li&gt;
+  &lt;li&gt;6 cloves of chopped garlic (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can cook the peppers either in the BBQ or in the oven.  If you use the BBQ preheat to 400-450ºF.  If you use the oven use the broil setting.&lt;/li&gt;
+  &lt;li&gt;Wash the peppers and place them either in the barbecue or in a baking sheet in the middle rack in the oven.&lt;/li&gt;
+  &lt;li&gt;Cook for 10-12 minutes and then turn the peppers every 2-3 minutes, until all sides are charred and the peppers are soft.&lt;/li&gt;
+  &lt;li&gt;Remove the peppers from the BBQ or the oven and let them cool down a little, for a few minutes.&lt;/li&gt;
+  &lt;li&gt;Then clean the peppers by removing the skin, the seeds and the stem. Cut them in large pieces  . One pepper may be cut in 2 or 3 slices&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/morrones-limpios.jpg&quot; alt=&quot;Peeled peppers&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Chop the garlic in tiny cubes.&lt;/li&gt;
+  &lt;li&gt;In a container with a lid ( a jar or a bowl with a lid) place the peppers, the garlic and add oil until you fully cover the peppers.  We use canola oil but any other oil you like would work.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/grilled-peppers/</link>
+        <guid isPermaLink="true">/gfideas/grilled-peppers/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>df</category>
+        
+      </item>
+    
+      <item>
+        <title>Short Ribs Plate</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Sugar Free&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 pounds Short ribs&lt;/li&gt;
+  &lt;li&gt;1 tbsp olive oil&lt;/li&gt;
+  &lt;li&gt;Salt and pepper to taste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Rinse the short ribs and pat dry.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs on a tray, drizzle the olive oil on top, salt and pepper to taste and put aside.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/short-ribs-raw.jpg&quot; alt=&quot;Short Ribs&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If cooking in the BBQ, preheat to 375º F.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs on the grill with the bone side down for approximately 15-20 minutes, depending on the thickness of the ribs.&lt;/li&gt;
+  &lt;li&gt;After 15-20 minutes flip the short ribs for another 10 minutes approximately, until it is done.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If cooking in the oven, preheat to 425ºF.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs in a tray, with the bone side down.&lt;/li&gt;
+  &lt;li&gt;Place the tray in the oven, in the middle rack, for 20-25 minutes, approximately, depending on the thickness of the ribs.&lt;/li&gt;
+  &lt;li&gt;Flip the short ribs and put back in the oven for another 10 minutes, approximately, until it is done.&lt;/li&gt;
+  &lt;li&gt;To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer.&lt;/li&gt;
+  &lt;li&gt;In the oven, if you like the short ribs crispy, put the oven in broil for 5 minutes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/short-ribs-cooked.jpg&quot; alt=&quot;Short Ribs Ready to Eat&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/short-ribs-plate/</link>
+        <guid isPermaLink="true">/gfideas/short-ribs-plate/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+      </item>
+    
+      <item>
+        <title>Pizza Topping: Onion Saute</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
+
+&lt;p&gt;This quick recipe makes for a tasty pizza topping or side dish.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 onions&lt;/li&gt;
+  &lt;li&gt;1 tbsp oil (we prefer olive, but use anyone you like)&lt;/li&gt;
+  &lt;li&gt;1 tbsp oregano&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Slice the onions finely.&lt;/li&gt;
+  &lt;li&gt;Oil a pan and place the onions.  Sprinkle the oregano on top.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/cebollas-saute.jpg&quot; alt=&quot;Onions Saute&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cook for 3 minutes in high heat while mixing.&lt;/li&gt;
+  &lt;li&gt;Once finished, remove the onions from the pan and place them in a bowl. Note that if you leave the onions in the pan they will continue to cook and soften, even if the heat is off.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!!!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/onion-saute/</link>
+        <guid isPermaLink="true">/gfideas/onion-saute/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>df</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick and Easy Tomato Sauce</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
+
+&lt;p&gt;This is a very simple recipe to prepare a tasty tomato sauce super quickly.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;400 ml crushed tomato&lt;/li&gt;
+  &lt;li&gt;1 tbsp oil&lt;/li&gt;
+  &lt;li&gt;1 tbsp water&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+  &lt;li&gt;1 tsp sugar&lt;/li&gt;
+  &lt;li&gt;2 tsp oregano&lt;/li&gt;
+  &lt;li&gt;2 medium bay leaves&lt;/li&gt;
+  &lt;li&gt;1/2 tsp pepper&lt;/li&gt;
+  &lt;li&gt;1 tsp chilly flakes (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Place all the ingredients in a pot.&lt;/li&gt;
+  &lt;li&gt;Cook for 5-7 minutes with medium heat, without covering the pot, and slowly mixing the sauce until it is reduced (reduced means that the mixture is thickened).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!!!&lt;/p&gt;
+
+&lt;p&gt;This is a quick option to use when preparing gluten free pizza!&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.&lt;/li&gt;
+  &lt;li&gt;Make sure the crushed tomatoes don’t have added sugar, salt or spices that may have gluten or other ingredients that you may wish to avoid.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 19 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/tomato-sauce/</link>
+        <guid isPermaLink="true">/gfideas/tomato-sauce/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+      </item>
+    
+      <item>
+        <title>Tips to Make Gluten Free Pizza </title>
+        <description>&lt;p&gt;Over the years we were collecting some useful tips when preparing gluten free pizza.  We hope you find them helpful!&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-1-how-to-get-gluten-free-pizza-dough-to-rise&quot;&gt;Tip 1. How to get gluten-free pizza dough to rise&lt;/h2&gt;
+
+&lt;p&gt;An easy way to create a good environment for gluten-free pizza dough to rise is to turn your oven to 100-170ºF, whatever is the minimum your oven allows.  When it reaches this temperature, turn off the oven and place the pizza dough in the middle rack of the oven.  In 30-40 minutes the pizza dough should be ready, usually at least doubling its size.&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-2-pizza-toppings&quot;&gt;Tip 2. Pizza toppings&lt;/h2&gt;
+
+&lt;p&gt;Using many toppings is sometimes tricky with gluten-free dough.&lt;/p&gt;
+
+&lt;p&gt;What works best for us when using lots of toppings is to prepare the pizza in the oven with only tomato or tomato and cheese. Separately prepare the different toppings and add them on top once the pizza is done.&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-3-crispy-gluten-free-pizza&quot;&gt;Tip 3. Crispy gluten-free pizza&lt;/h2&gt;
+
+&lt;p&gt;If you like your pizza crispier, especially in the bottom, after the pizza is cooked place the pizza or the portions you are planning to have on a pan for 3-5 minutes at high temperature.&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-4-melting-cheese&quot;&gt;Tip 4. Melting Cheese&lt;/h2&gt;
+&lt;p&gt;For the cheese to melt better, either slice or shred it and place it in a bowl with water for at least 15 minutes.&lt;/p&gt;
+
+&lt;p&gt;When you need to use the cheese on your pizza, just strain the water and put the cheese on your pizza. The cheese will melt beautifully!!&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-5-warm-up-cold-pizza-in-the-microwave&quot;&gt;Tip 5. Warm-up cold pizza in the microwave&lt;/h2&gt;
+
+&lt;p&gt;If you plan to warm up your pizza in the microwave, place a paper towel or paper napkin in the bottom of the plate.  That way the paper will absorb the humidity and the pizza won’t get soggy.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/pizza-tips/</link>
+        <guid isPermaLink="true">/gfideas/pizza-tips/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>easy</category>
+        
+      </item>
+    
+      <item>
+        <title>Gluten Free Cheese Pizza</title>
+        <description>&lt;p&gt;Gluten Free, Lacto-Vegetarian&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 cup gluten free flour&lt;/li&gt;
+  &lt;li&gt;2 tsp xhantan gum&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+  &lt;li&gt;4 tsp	sugar&lt;/li&gt;
+  &lt;li&gt;4.5 tsp dry yeast&lt;/li&gt;
+  &lt;li&gt;2 cup	warm water&lt;/li&gt;
+  &lt;li&gt;2 tsp	olive oil&lt;/li&gt;
+  &lt;li&gt;6 tbsp tomato sauce&lt;/li&gt;
+  &lt;li&gt;2 cups cheese such as mozzarella or havarti (any cheese that melts)&lt;/li&gt;
+  &lt;li&gt;Oregano to taste&lt;/li&gt;
+  &lt;li&gt;Olives, green and/or black to taste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;In a bowl place the gluten free flour with the xhantan gum, salt, sugar and dry yeast. Make a small hole in the center and add the warm water and the olive oil. Mix with an electric mixer for 2 minutes, until you get a homogeneous and creamy dough.&lt;/p&gt;
+
+    &lt;iframe width=&quot;320&quot; height=&quot;415&quot; src=&quot;https://www.youtube.com/embed/0ci1jpEXx1s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Oil a pizza baking sheet or line it with parchment. Pour the dough on the baking sheet, spread the mix with a spatula or with your hands to give it a round shape. (Tip: to mold the pizza wet the spatula or your hands with cold water).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cover the dough with film, put a clean cloth on top and let it rise in a warm place until the preparation doubles in size. It should take 30 minutes to 1 hour.&lt;/li&gt;
+  &lt;li&gt;Preheat the oven to 390ºF and place the baking sheet in the bottom of the oven for 15 minutes approximately, until the bottom of the pizza can be easily raised with a spatula.&lt;/li&gt;
+  &lt;li&gt;Take the pizza out of the oven, spread the tomato sauce on the pizza dough and distribute the cheese either cut in slices or shredded on top. We like using mozzarella and havarti.&lt;/li&gt;
+  &lt;li&gt;Place the pizza back in the oven, in the middle rack, for 10 minutes approximately, until the cheese if fully melted.&lt;/li&gt;
+  &lt;li&gt;If you like the cheese crispy, change the oven to broiler for 3-5 minutes, until the cheese is bubbling. This step is optional.&lt;/li&gt;
+  &lt;li&gt;Take the pizza out of the oven, put olives on top and sprinkle oregano. Enjoy!!!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The original recipe is lacto-vegetarian.  To make the recipe vegan just replace the cheese with a vegan cheese alternative that melts on top.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How to warm up pizza:  ideally don’t use microwave, but if you do, put paper towel under the pizza.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/pizza-cheese/</link>
+        <guid isPermaLink="true">/gfideas/pizza-cheese/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>easy</category>
+        
+      </item>
+    
+      <item>
+        <title>Carrot Salad</title>
+        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 carrots per person&lt;/li&gt;
+  &lt;li&gt;1 egg per person&lt;/li&gt;
+  &lt;li&gt;1 lemmon juice&lt;/li&gt;
+  &lt;li&gt;Oil, salt and pepper to taste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Boil the eggs.&lt;/li&gt;
+  &lt;li&gt;Let the hardboiled egg/s cool down. Then chop it/them in small cubes.&lt;/li&gt;
+  &lt;li&gt;Wash and peel the carrots and remove their top and bottom.  Shred the carrots.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/peeled_carrots.jpg&quot; alt=&quot;Peeled Carrots&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Place the carrots in a bowl and add lemon juice so that the carrots don’t change their color (oxidize).&lt;/li&gt;
+  &lt;li&gt;Add the eggs to the carrots&lt;/li&gt;
+  &lt;li&gt;Finally, season with oil, salt and pepper to taste and enjoy!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/carrot-salad/</link>
+        <guid isPermaLink="true">/gfideas/carrot-salad/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>easy</category>
+        
+      </item>
+    
+      <item>
+        <title>Yogurt &amp; Berries</title>
+        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;6 tbsp vanilla yogurt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 tbsp berries mix (fresh or frozen)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 tsp chia seeds (optional)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If the berries are fresh chop the strawberries. If the berries are frozen, defrost them in the microwave for approximately 50 seconds until they are soft.&lt;/li&gt;
+  &lt;li&gt;Place the vanilla yogurt in a bowl and add the berries on top.&lt;/li&gt;
+  &lt;li&gt;Sprinkle chia seeds (optional) and enjoy!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In addition to berries, other fruits we love mixing with vanilla yogurt are bananas, peaches, plums and apricots.&lt;/li&gt;
+  &lt;li&gt;For the dish to be sugar free, the yogurt needs to be sugar free.&lt;/li&gt;
+  &lt;li&gt;For the dish to be dairy free, use dairy free yogurt.&lt;/li&gt;
+  &lt;li&gt;For the dish to be vegan, use vegan yogurt.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 30 May 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/Yogurt/</link>
+        <guid isPermaLink="true">/gfideas/Yogurt/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>easy</category>
+        
+      </item>
+    
+      <item>
+        <title>Yum-yum Yam chips!</title>
+        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Dairy Free, Low Sodium (alternative)&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 yam per person, thinly sliced&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Oil&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Salt or pepper to taste&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven at  425º F.  Oil a baking sheet or line it with parchment.&lt;/li&gt;
+  &lt;li&gt;Peel and slice the yam/s very thinly.&lt;/li&gt;
+  &lt;li&gt;Arrange the yam slices on the baking sheet side by side. Avoid overlapping them for a faster and even cooking.&lt;/li&gt;
+  &lt;li&gt;Slightly salt the yams and put a few drops of your favorite oil on top.  We like using olive oil, but any oil will work great.&lt;/li&gt;
+  &lt;li&gt;Place in the oven for 10 minutes. Then flip the yams in the tray and put them back in the oven for another 10 minutes. By then the yams should be soft.&lt;/li&gt;
+  &lt;li&gt;Finally take the yams out of the oven and enjoy! Serve warm or at room temperature.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;low-sodium-option&quot;&gt;Low sodium option&lt;/h3&gt;
+
+&lt;p&gt;For the recipe to be low sodium just replace the salt with low sodium salt or pepper.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 May 2021 00:00:00 -0700</pubDate>
+        <link>/gfideas/yams/</link>
+        <guid isPermaLink="true">/gfideas/yams/</guid>
+        
+        
+        <category>vegan</category>
+        
+        <category>gf</category>
+        
+        <category>easy</category>
+        
+      </item>
+    
   </channel>
 </rss>
