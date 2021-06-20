@@ -2,7 +2,7 @@
 name: "Gluten Free Ideas"
 title: "Gluten Free Ideas"
 description: "A site to learn how to cook easy GF recipes."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: /gfideas
 google_analytics: 'UA-46278016-1'
