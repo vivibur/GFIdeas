@@ -3,11 +3,8 @@ layout: post
 title:  "Grilled Peppers"
 categories: [ vegan, gf, df]
 image: assets/images/morron-y-cebolla.jpg
-traits: GF, P, V, LS-A
+traits: GF, DF, VN
 ---
-
-Gluten Free, Dairy Free, Vegan
-
 
 Grilled peppers can be served as a side dish as you can see in the short ribs plate picture, in sandwiches, and as pizza topping. It is very easy to prepare and is preserved in oil. 
 
@@ -15,12 +12,8 @@ Grilled peppers can be served as a side dish as you can see in the short ribs pl
 ## Ingredients
 
 * 6 Peppers
-* oil (we use canola oil, but others work well)
-* 6 cloves of chopped garlic (optional)
-
-
-	
-
+* Oil (we use canola oil, but others work well)
+* 6 Cloves of chopped garlic (optional)
 
 ## Preparation
 

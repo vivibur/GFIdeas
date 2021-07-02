@@ -13,3 +13,20 @@
 	"syntax",
     "starsnonscss"
 ;
+
+
+.traits {
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+
+    img {
+        cursor: help;
+        margin-right: 5px;
+        width: 25px;
+
+        &:last-child {
+            margin-right: 0px;
+        }
+    }
+}

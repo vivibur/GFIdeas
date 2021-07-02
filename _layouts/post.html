@@ -19,7 +19,6 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
-
                 <!-- Author Box -->
                 {% if page.author %}
                 <div class="row post-top-meta">
@@ -38,7 +37,10 @@ post_class: post-template
                 {% endif %}
 
                 <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
+                <h1 class="posttitle">
+                    {{ page.title }}
+                    {% traits_icons "" %}
+                </h1>
 
             </div>
 

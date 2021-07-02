@@ -3,7 +3,7 @@ layout: post
 title:  "Gluten Free Cheese Pizza"
 categories: [ vegan, gf, easy ]
 image: assets/images/cheese-pizza.jpg
-traits: GF, V, P, NS, LS-A
+traits: [GF, V, P, NS, LS-A]
 ---
 
 Gluten Free, Lacto-Vegetarian
