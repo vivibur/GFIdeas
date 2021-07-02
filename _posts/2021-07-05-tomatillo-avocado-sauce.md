@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomatillo and Avocado Sauce"
 categories: [ vegan, gf]
-image: assets/images/shortribs-plate.jpg
+image: assets/images/tomatillo-avocado-sauce-focus.jpg
 traits: GF, P, V, LS-A
 ---
 
