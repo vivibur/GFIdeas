@@ -2,7 +2,7 @@
 layout: post
 title:  "Pizza Topping: Onion Saute"
 categories: [ vegan, gf, df]
-image: assets/images/onion-saute-pizza.jpeg
+image: assets/images/morron-cebollas-chimichurri-ymas.jpg
 traits: GF, P, V, LS-A
 ---
 
