@@ -205,4 +205,10 @@ pre.lineno { color: #9999; }
 
 .c-rating--big { font-size: 150%; }
 
+.traits { display: inline-block; float: right; margin-left: 20px; }
+
+.traits img { cursor: help; margin-right: 5px; width: 25px; }
+
+.traits img:last-child { margin-right: 0px; }
+
 /*# sourceMappingURL=main.css.map */

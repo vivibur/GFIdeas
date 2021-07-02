@@ -5,15 +5,13 @@
     <description>A site to learn how to cook easy GF recipes.</description>
     <link>/gfideas/</link>
     <atom:link href="/gfideas/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Jun 2021 19:59:37 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Jun 2021 19:59:37 -0700</lastBuildDate>
+    <pubDate>Thu, 01 Jul 2021 19:54:11 -0700</pubDate>
+    <lastBuildDate>Thu, 01 Jul 2021 19:54:11 -0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Tomatillo and Avocado Sauce</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
-
-&lt;p&gt;This is a very simple recipe to prepare a tasty sauce that goes well with meats, fish, in sandwiches, tacos and burritos.&lt;/p&gt;
+        <description>&lt;p&gt;This is a very simple recipe to prepare a tasty sauce that goes well with meats, fish, in sandwiches, tacos and burritos.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -59,20 +57,20 @@
         
         <category>gf</category>
         
+        <category>dairy-free</category>
+        
       </item>
     
       <item>
         <title>Grilled Peppers</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
-
-&lt;p&gt;Grilled peppers can be served as a side dish as you can see in the short ribs plate picture, in sandwiches, and as pizza topping. It is very easy to prepare and is preserved in oil.&lt;/p&gt;
+        <description>&lt;p&gt;Grilled peppers can be served as a side dish as you can see in the short ribs plate picture, in sandwiches, and as pizza topping. It is very easy to prepare and is preserved in oil.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;6 Peppers&lt;/li&gt;
-  &lt;li&gt;oil (we use canola oil, but others work well)&lt;/li&gt;
-  &lt;li&gt;6 cloves of chopped garlic (optional)&lt;/li&gt;
+  &lt;li&gt;Oil (we use canola oil, but others work well)&lt;/li&gt;
+  &lt;li&gt;6 Cloves of chopped garlic (optional)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
@@ -110,9 +108,7 @@
     
       <item>
         <title>Short Ribs Plate</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Sugar Free&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 pounds Short ribs&lt;/li&gt;
@@ -160,9 +156,11 @@
         <guid isPermaLink="true">/gfideas/short-ribs-plate/</guid>
         
         
-        <category>vegan</category>
-        
         <category>gf</category>
+        
+        <category>sugar-free</category>
+        
+        <category>dairy-free</category>
         
       </item>
     
