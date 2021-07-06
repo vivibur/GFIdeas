@@ -1,1 +1,1 @@
-Sitemap: /gfideas/sitemap.xml
+Sitemap: /sitemap.xml

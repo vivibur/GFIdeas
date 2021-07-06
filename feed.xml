@@ -3,10 +3,10 @@
   <channel>
     <title>Gluten Free Ideas</title>
     <description>A site to learn how to cook easy GF recipes.</description>
-    <link>/gfideas/</link>
-    <atom:link href="/gfideas/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Jul 2021 19:54:11 -0700</pubDate>
-    <lastBuildDate>Thu, 01 Jul 2021 19:54:11 -0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 05 Jul 2021 20:22:26 -0700</pubDate>
+    <lastBuildDate>Mon, 05 Jul 2021 20:22:26 -0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Mon, 05 Jul 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/tomatillo-avocado-sauce/</link>
-        <guid isPermaLink="true">/gfideas/tomatillo-avocado-sauce/</guid>
+        <link>/tomatillo-avocado-sauce/</link>
+        <guid isPermaLink="true">/tomatillo-avocado-sauce/</guid>
         
         
         <category>vegan</category>
@@ -83,7 +83,7 @@
   &lt;li&gt;Then clean the peppers by removing the skin, the seeds and the stem. Cut them in large pieces  . One pepper may be cut in 2 or 3 slices&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/morrones-limpios.jpg&quot; alt=&quot;Peeled peppers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/morrones-limpios.jpg&quot; alt=&quot;Peeled peppers&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Chop the garlic in tiny cubes.&lt;/li&gt;
@@ -94,8 +94,8 @@
 
 </description>
         <pubDate>Wed, 30 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/grilled-peppers/</link>
-        <guid isPermaLink="true">/gfideas/grilled-peppers/</guid>
+        <link>/grilled-peppers/</link>
+        <guid isPermaLink="true">/grilled-peppers/</guid>
         
         
         <category>vegan</category>
@@ -123,7 +123,7 @@
   &lt;li&gt;Place the short ribs on a tray, drizzle the olive oil on top, salt and pepper to taste and put aside.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/short-ribs-raw.jpg&quot; alt=&quot;Short Ribs&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/short-ribs-raw.jpg&quot; alt=&quot;Short Ribs&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;If cooking in the BBQ, preheat to 375º F.&lt;/li&gt;
@@ -142,7 +142,7 @@
 
 &lt;p&gt;Enjoy!!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/short-ribs-cooked.jpg&quot; alt=&quot;Short Ribs Ready to Eat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/short-ribs-cooked.jpg&quot; alt=&quot;Short Ribs Ready to Eat&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
 
@@ -152,8 +152,8 @@
 
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/short-ribs-plate/</link>
-        <guid isPermaLink="true">/gfideas/short-ribs-plate/</guid>
+        <link>/short-ribs-plate/</link>
+        <guid isPermaLink="true">/short-ribs-plate/</guid>
         
         
         <category>gf</category>
@@ -185,7 +185,7 @@
   &lt;li&gt;Oil a pan and place the onions.  Sprinkle the oregano on top.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/cebollas-saute.jpg&quot; alt=&quot;Onions Saute&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/cebollas-saute.jpg&quot; alt=&quot;Onions Saute&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Cook for 3 minutes in high heat while mixing.&lt;/li&gt;
@@ -196,8 +196,8 @@
 
 </description>
         <pubDate>Mon, 21 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/onion-saute/</link>
-        <guid isPermaLink="true">/gfideas/onion-saute/</guid>
+        <link>/onion-saute/</link>
+        <guid isPermaLink="true">/onion-saute/</guid>
         
         
         <category>vegan</category>
@@ -248,8 +248,8 @@
 
 </description>
         <pubDate>Sat, 19 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/tomato-sauce/</link>
-        <guid isPermaLink="true">/gfideas/tomato-sauce/</guid>
+        <link>/tomato-sauce/</link>
+        <guid isPermaLink="true">/tomato-sauce/</guid>
         
         
         <category>vegan</category>
@@ -287,8 +287,8 @@
 
 </description>
         <pubDate>Thu, 17 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/pizza-tips/</link>
-        <guid isPermaLink="true">/gfideas/pizza-tips/</guid>
+        <link>/pizza-tips/</link>
+        <guid isPermaLink="true">/pizza-tips/</guid>
         
         
         <category>vegan</category>
@@ -351,8 +351,8 @@
 
 </description>
         <pubDate>Thu, 10 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/pizza-cheese/</link>
-        <guid isPermaLink="true">/gfideas/pizza-cheese/</guid>
+        <link>/pizza-cheese/</link>
+        <guid isPermaLink="true">/pizza-cheese/</guid>
         
         
         <category>vegan</category>
@@ -384,7 +384,7 @@
   &lt;li&gt;Wash and peel the carrots and remove their top and bottom.  Shred the carrots.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gfideas/assets/images/peeled_carrots.jpg&quot; alt=&quot;Peeled Carrots&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/peeled_carrots.jpg&quot; alt=&quot;Peeled Carrots&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Place the carrots in a bowl and add lemon juice so that the carrots don’t change their color (oxidize).&lt;/li&gt;
@@ -399,8 +399,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 03 Jun 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/carrot-salad/</link>
-        <guid isPermaLink="true">/gfideas/carrot-salad/</guid>
+        <link>/carrot-salad/</link>
+        <guid isPermaLink="true">/carrot-salad/</guid>
         
         
         <category>vegan</category>
@@ -447,8 +447,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 30 May 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/Yogurt/</link>
-        <guid isPermaLink="true">/gfideas/Yogurt/</guid>
+        <link>/Yogurt/</link>
+        <guid isPermaLink="true">/Yogurt/</guid>
         
         
         <category>vegan</category>
@@ -493,8 +493,8 @@
 &lt;p&gt;For the recipe to be low sodium just replace the salt with low sodium salt or pepper.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 May 2021 00:00:00 -0700</pubDate>
-        <link>/gfideas/yams/</link>
-        <guid isPermaLink="true">/gfideas/yams/</guid>
+        <link>/yams/</link>
+        <guid isPermaLink="true">/yams/</guid>
         
         
         <category>vegan</category>
