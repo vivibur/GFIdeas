@@ -29,13 +29,10 @@ This is a very simple recipe to prepare a tasty sauce that goes well with meats,
 5. The tomatillos are ready when charred on both sides, but do not let them get too soft. The garlic is ready when soft, when you can poke with the knife with no resistance. Finally, with the jalapeños it doesn’t matter if it is soft or not.  
 6. Let the tomatillos, garlic and the jalapeños cool down.
 7. In a blender place the tomatillos, jalapeños, 1/4 avocado, 4 cloves of garlic (or more, to taste), salt, 1 handful of cilantro, lime juice and blend.
-8. Place the mix in a bowl, add 1/4 avocado diced, the chopped cilantro, additional lime juice and salt to taste.  
+8. Place the mix in a bowl, add 1/4 avocado previously diced, the chopped cilantro, additional lime juice and salt to taste.  
 
 
 Enjoy!!!
-
-
- 
 
 
 ## Tips
