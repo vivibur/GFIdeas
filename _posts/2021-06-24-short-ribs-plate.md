@@ -6,7 +6,9 @@ image: assets/images/shortribs-plate.jpg
 traits: GF, DF, SF
 ---
 
-<<<<<<< HEAD
+This is a delicious plate of [short ribs]({% post_url 2021-07-12-short-ribs %}), accompanied by a [tomatillo and avocado sauce]({% post_url 2021-07-05-tomatillo-avocado-sauce %}), [grilled peppers]({% post_url 2021-06-30-grilled-peppers %}) and a [carrot salad]({% post_url 2021-06-03-carrot-salad %}). The short ribs can be prepared either in the barbecue or in the oven.
+
+
 ## Ingredients
 
 * 2 pounds Short ribs 
@@ -46,10 +48,7 @@ traits: GF, DF, SF
 ## Tips
 
 * For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.
-=======
-Gluten Free, Dairy Free, Sugar Free
 
 
-This is a delicious plate of short ribs {% post_url /gfideas/2021-07-12-short-ribs %}, accompanied by a tomatillo and avocado sauce {% post_url 2021-07-05-tomatillo-avocado-sauce %}, grilled peppers {% post_url 2021-06-30-grilled-peppers %} and a carrot salad {% post_url 2021-06-03-carrot-salad %}. The short ribs can be prepared either in the barbecue or in the oven.
->>>>>>> small changes documents
+
 
