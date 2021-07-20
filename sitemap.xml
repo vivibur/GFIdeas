@@ -49,6 +49,10 @@
 <lastmod>2021-07-05T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>/short-ribs/</loc>
+<lastmod>2021-07-12T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>/about</loc>
 </url>
 <url>
@@ -80,5 +84,8 @@
 </url>
 <url>
 <loc>/page2/</loc>
+</url>
+<url>
+<loc>/page3/</loc>
 </url>
 </urlset>

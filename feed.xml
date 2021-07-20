@@ -5,9 +5,63 @@
     <description>A site to learn how to cook easy GF recipes.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jul 2021 20:22:26 -0700</pubDate>
-    <lastBuildDate>Mon, 05 Jul 2021 20:22:26 -0700</lastBuildDate>
+    <pubDate>Tue, 20 Jul 2021 13:17:02 -0700</pubDate>
+    <lastBuildDate>Tue, 20 Jul 2021 13:17:02 -0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Short Ribs</title>
+        <description>&lt;p&gt;Gluten Free, Dairy Free, Sugar Free&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 pounds Short ribs&lt;/li&gt;
+  &lt;li&gt;1 tbsp olive oil&lt;/li&gt;
+  &lt;li&gt;Salt and pepper to taste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Rinse the short ribs and pat dry.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs on a tray, drizzle the olive oil on top, salt and pepper to taste and put aside.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/short-ribs-raw.jpg&quot; alt=&quot;Short Ribs&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If cooking in the BBQ, preheat to 375º F.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs on the grill with the bone side down for approximately 15-20 minutes, depending on the thickness of the ribs.&lt;/li&gt;
+  &lt;li&gt;After 15-20 minutes flip the short ribs for another 10 minutes approximately, until it is done.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To make sure the short ribs are cooked, you can cut close to the bone and check if you like how cooked they are or you can use a meat thermometer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If cooking in the oven, preheat to 425ºF.&lt;/li&gt;
+  &lt;li&gt;Place the short ribs in a tray, with the bone side down.&lt;/li&gt;
+  &lt;li&gt;Place the tray in the oven, in the middle rack, for 20-25 minutes, approximately, depending on the thickness of the ribs.&lt;/li&gt;
+  &lt;li&gt;Flip the short ribs and put back in the oven for another 10 minutes, approximately, until it is done.&lt;/li&gt;
+  &lt;li&gt;To make sure the short ribs are cooked, you can cut close to the bone and check if you like how cooked they are or you can use a meat thermometer.&lt;/li&gt;
+  &lt;li&gt;In the oven, if you like the short ribs crispy, put the oven in broil for 5 minutes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy!!!&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 -0700</pubDate>
+        <link>/short-ribs/</link>
+        <guid isPermaLink="true">/short-ribs/</guid>
+        
+        
+        <category>gf</category>
+        
+      </item>
     
       <item>
         <title>Tomatillo and Avocado Sauce</title>
@@ -36,7 +90,7 @@
   &lt;li&gt;The tomatillos are ready when charred on both sides, but do not let them get too soft. The garlic is ready when soft, when you can poke with the knife with no resistance. Finally, with the jalapeños it doesn’t matter if it is soft or not.&lt;/li&gt;
   &lt;li&gt;Let the tomatillos, garlic and the jalapeños cool down.&lt;/li&gt;
   &lt;li&gt;In a blender place the tomatillos, jalapeños, 1/4 avocado, 4 cloves of garlic (or more, to taste), salt, 1 handful of cilantro, lime juice and blend.&lt;/li&gt;
-  &lt;li&gt;Place the mix in a bowl, add 1/4 avocado diced, the chopped cilantro, additional lime juice and salt to taste.&lt;/li&gt;
+  &lt;li&gt;Place the mix in a bowl, add 1/4 avocado previously diced, the chopped cilantro, additional lime juice and salt to taste.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Enjoy!!!&lt;/p&gt;
@@ -108,7 +162,9 @@
     
       <item>
         <title>Short Ribs Plate</title>
-        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;p&gt;This is a delicious plate of &lt;a href=&quot;/short-ribs/&quot;&gt;short ribs&lt;/a&gt;, accompanied by a &lt;a href=&quot;/tomatillo-avocado-sauce/&quot;&gt;tomatillo and avocado sauce&lt;/a&gt;, &lt;a href=&quot;/grilled-peppers/&quot;&gt;grilled peppers&lt;/a&gt; and a &lt;a href=&quot;/carrot-salad/&quot;&gt;carrot salad&lt;/a&gt;. The short ribs can be prepared either in the barbecue or in the oven.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 pounds Short ribs&lt;/li&gt;
@@ -449,52 +505,6 @@
         <pubDate>Sun, 30 May 2021 00:00:00 -0700</pubDate>
         <link>/Yogurt/</link>
         <guid isPermaLink="true">/Yogurt/</guid>
-        
-        
-        <category>vegan</category>
-        
-        <category>gf</category>
-        
-        <category>easy</category>
-        
-      </item>
-    
-      <item>
-        <title>Yum-yum Yam chips!</title>
-        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Dairy Free, Low Sodium (alternative)&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;1 yam per person, thinly sliced&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Oil&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Salt or pepper to taste&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Preheat the oven at  425º F.  Oil a baking sheet or line it with parchment.&lt;/li&gt;
-  &lt;li&gt;Peel and slice the yam/s very thinly.&lt;/li&gt;
-  &lt;li&gt;Arrange the yam slices on the baking sheet side by side. Avoid overlapping them for a faster and even cooking.&lt;/li&gt;
-  &lt;li&gt;Slightly salt the yams and put a few drops of your favorite oil on top.  We like using olive oil, but any oil will work great.&lt;/li&gt;
-  &lt;li&gt;Place in the oven for 10 minutes. Then flip the yams in the tray and put them back in the oven for another 10 minutes. By then the yams should be soft.&lt;/li&gt;
-  &lt;li&gt;Finally take the yams out of the oven and enjoy! Serve warm or at room temperature.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;low-sodium-option&quot;&gt;Low sodium option&lt;/h3&gt;
-
-&lt;p&gt;For the recipe to be low sodium just replace the salt with low sodium salt or pepper.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 May 2021 00:00:00 -0700</pubDate>
-        <link>/yams/</link>
-        <guid isPermaLink="true">/yams/</guid>
         
         
         <category>vegan</category>
