@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Short Ribs Plate"
-categories: [ gf, sugar-free, dairy-free ]
-image: assets/images/shortribs-plate.jpg
-traits: GF, DF, SF
+title:  "Short Ribs"
+categories: [gf]
+image: assets/images/short-ribs-cooked.jpg
+traits: GF, P, NS, LS-A
 ---
 
-This is a delicious plate of [short ribs]({% post_url 2021-07-12-short-ribs %}), accompanied by a [tomatillo and avocado sauce]({% post_url 2021-07-05-tomatillo-avocado-sauce %}), [grilled peppers]({% post_url 2021-06-30-grilled-peppers %}) and a [carrot salad]({% post_url 2021-06-03-carrot-salad %}). The short ribs can be prepared either in the barbecue or in the oven.
+Gluten Free, Dairy Free, Sugar Free
 
 
 ## Ingredients
@@ -29,18 +29,18 @@ This is a delicious plate of [short ribs]({% post_url 2021-07-12-short-ribs %}),
 3. If cooking in the BBQ, preheat to 375º F. 
 4. Place the short ribs on the grill with the bone side down for approximately 15-20 minutes, depending on the thickness of the ribs.
 5. After 15-20 minutes flip the short ribs for another 10 minutes approximately, until it is done.  
-6. To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer.
+6. To make sure the short ribs are cooked, you can cut close to the bone and check if you like how cooked they are or you can use a meat thermometer.
 
 7. If cooking in the oven, preheat to 425ºF.
 8. Place the short ribs in a tray, with the bone side down.
 9. Place the tray in the oven, in the middle rack, for 20-25 minutes, approximately, depending on the thickness of the ribs.
 10. Flip the short ribs and put back in the oven for another 10 minutes, approximately, until it is done. 
-11. To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer. 
+11. To make sure the short ribs are cooked, you can cut close to the bone and check if you like how cooked they are or you can use a meat thermometer. 
 12. In the oven, if you like the short ribs crispy, put the oven in broil for 5 minutes.
  
  Enjoy!!!
 
-![Short Ribs Ready to Eat]({% asset_path images/short-ribs-cooked.jpg / %})
+
 
 
 
@@ -48,7 +48,4 @@ This is a delicious plate of [short ribs]({% post_url 2021-07-12-short-ribs %}),
 ## Tips
 
 * For the recipe to be low sodium replace the salt with low sodium salt or use just pepper.
-
-
-
 
