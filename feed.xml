@@ -5,15 +5,13 @@
     <description>A site to learn how to cook easy GF recipes.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jul 2021 13:17:02 -0700</pubDate>
-    <lastBuildDate>Tue, 20 Jul 2021 13:17:02 -0700</lastBuildDate>
+    <pubDate>Tue, 20 Jul 2021 21:25:26 -0700</pubDate>
+    <lastBuildDate>Tue, 20 Jul 2021 21:25:26 -0700</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Short Ribs</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Sugar Free&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 pounds Short ribs&lt;/li&gt;
@@ -60,6 +58,10 @@
         
         
         <category>gf</category>
+        
+        <category>paleo</category>
+        
+        <category>sodium-free</category>
         
       </item>
     
@@ -222,9 +224,7 @@
     
       <item>
         <title>Pizza Topping: Onion Saute</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
-
-&lt;p&gt;This quick recipe makes for a tasty pizza topping or side dish.&lt;/p&gt;
+        <description>&lt;p&gt;This quick recipe makes for a tasty pizza topping or side dish.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -262,13 +262,15 @@
         
         <category>df</category>
         
+        <category>paleo</category>
+        
+        <category>sodium-free</category>
+        
       </item>
     
       <item>
         <title>Quick and Easy Tomato Sauce</title>
-        <description>&lt;p&gt;Gluten Free, Dairy Free, Vegan&lt;/p&gt;
-
-&lt;p&gt;This is a very simple recipe to prepare a tasty tomato sauce super quickly.&lt;/p&gt;
+        <description>&lt;p&gt;This is a very simple recipe to prepare a tasty tomato sauce super quickly.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -311,6 +313,12 @@
         <category>vegan</category>
         
         <category>gf</category>
+        
+        <category>paleo</category>
+        
+        <category>dairy-free</category>
+        
+        <category>sodium-free</category>
         
       </item>
     
@@ -357,9 +365,7 @@
     
       <item>
         <title>Gluten Free Cheese Pizza</title>
-        <description>&lt;p&gt;Gluten Free, Lacto-Vegetarian&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;3 cup gluten free flour&lt;/li&gt;
@@ -411,19 +417,17 @@
         <guid isPermaLink="true">/pizza-cheese/</guid>
         
         
-        <category>vegan</category>
+        <category>vegetarian</category>
         
         <category>gf</category>
         
-        <category>easy</category>
+        <category>paleo</category>
         
       </item>
     
       <item>
         <title>Carrot Salad</title>
-        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2 carrots per person&lt;/li&gt;
@@ -463,15 +467,17 @@
         
         <category>gf</category>
         
-        <category>easy</category>
+        <category>paleo</category>
+        
+        <category>dairy-free</category>
+        
+        <category>sodium-free</category>
         
       </item>
     
       <item>
         <title>Yogurt &amp; Berries</title>
-        <description>&lt;p&gt;Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -511,7 +517,11 @@
         
         <category>gf</category>
         
-        <category>easy</category>
+        <category>paleo</category>
+        
+        <category>dairy-free</category>
+        
+        <category>sodium-free</category>
         
       </item>
     
