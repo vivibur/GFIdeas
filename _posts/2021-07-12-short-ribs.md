@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Short Ribs"
-categories: [gf]
+categories: [gf, paleo, sodium-free]
 image: assets/images/short-ribs-cooked.jpg
-traits: GF, P, NS, LS-A
+traits: GF, P, SF
 ---
-
-Gluten Free, Dairy Free, Sugar Free
-
 
 ## Ingredients
 

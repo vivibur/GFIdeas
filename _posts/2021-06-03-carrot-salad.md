@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Carrot Salad"
-categories: [ vegan, gf, easy ]
+categories: [ vegan, gf, paleo, dairy-free, sodium-free ]
 image: assets/images/carrot-salad.jpg
-traits: GF, VE, V, P, NS, DF, LS-A
+traits: GF, VN, V, P, DF, SF
 ---
-
-Gluten Free, Vegan, Vegetarian, Paleo, No Sugar, Low Sodium 
 
 ## Ingredients
 
