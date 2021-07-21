@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Quick and Easy Tomato Sauce"
-categories: [ vegan, gf]
+categories: [ vegan, gf, paleo, dairy-free, sodium-free ]
 image: assets/images/tomato-sauce.jpg
-traits: GF, P, V, LS-A
+traits: GF, P, V, DF, SF
 ---
-
-Gluten Free, Dairy Free, Vegan
-
 
 This is a very simple recipe to prepare a tasty tomato sauce super quickly.  
 
@@ -22,8 +19,6 @@ This is a very simple recipe to prepare a tasty tomato sauce super quickly.
 * 2 medium bay leaves 
 * 1/2 tsp pepper
 * 1 tsp chilly flakes (optional)
-
-	
 
 
 ## Preparation

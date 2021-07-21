@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Pizza Topping: Onion Saute"
-categories: [ vegan, gf, df]
+categories: [ vegan, gf, df, paleo, sodium-free]
 image: assets/images/onion-saute-pizza.jpeg
-traits: GF, P, V, LS-A
+traits: GF, P, V, SF, DF
 ---
-
-Gluten Free, Dairy Free, Vegan
-
 
 This quick recipe makes for a tasty pizza topping or side dish.
 
@@ -36,9 +33,3 @@ This quick recipe makes for a tasty pizza topping or side dish.
 Enjoy!!!
 
  
-
-
-
-
-
-
