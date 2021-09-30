@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick and Easy Tomato Sauce"
 categories: [ vegan, gf, paleo, dairy-free, sodium-free ]
-image: assets/images/tomato-sauce.jpg
+image: assets/images/nice-tomato-sauce.jpg
 traits: GF, P, V, DF, SF
 ---
 
