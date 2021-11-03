@@ -6,6 +6,7 @@ image: assets/images/brownies_small.jpg
 traits: GF, DF, VN
 ---
 
+Craving for cake, something sweet and soft, that also happens to be gluten free and healthy?  This brownies with dark chocolate may just be what you are looking for.
 
 ## Ingredients
 

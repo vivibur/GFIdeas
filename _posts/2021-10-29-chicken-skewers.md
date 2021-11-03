@@ -6,6 +6,8 @@ image: assets/images/chicken-brochette.jpeg
 traits: GF, DF, PA
 ---
 
+Chicken skewers make such a wonderful main dish. They are so easy to prepare and look so nice either for yourself or when organizing gatherings!
+
 
 ## Ingredients
 
