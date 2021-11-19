@@ -42,7 +42,7 @@ var documents = [{
     }, {
     "id": 8,
     "url": "/breaded-fish/",
-    "title": "Cod & arugula and mushroom salad",
+    "title": "Breaded Cod",
     "body": "2021/11/18 - Breaded cod accompanied by arugula and mushroom salad offers a lovely variation to prepare fish. It is delicious, healthy and very easy to prepare. Ingredients:  1 lb of cod fish cut in fillets 1 egg 2 cups of rice flour or your favorite gluten free flour 1 cup of corn starch Canola oil (as needed)Preparation:  Cut the fish in rectangles, approximately 2 or 3 inches per side.  Create a station of three plates: one with corn starch, one with the egg previously whisked and one with the rice flour mixed with sesame seeds, salt, pepper and chili flakes (optional).  Each piece of fish will pass through each of the stations: first cover the fish with corn starch, then with egg and finally pass the fish through the rice flour station.  Once all the fish is breaded, heat up oil in a deep wok or pot.  To fry the fish, place each piece of fish in the pot with oil until it is golden brown. Enjoy!!! "
     }, {
     "id": 9,
@@ -113,7 +113,7 @@ var documents = [{
     "id": 22,
     "url": "/short-ribs-plate/",
     "title": "Short Ribs Plate",
-    "body": "2021/06/24 - This is a delicious plate of short ribs, accompanied by a tomatillo and avocado sauce, grilled peppers and a carrot salad. The short ribs can be prepared either in the barbecue or in the oven. Ingredients:  2 pounds Short ribs 1 tbsp olive oil Salt and pepper to tastePreparation:  Rinse the short ribs and pat dry.  Place the short ribs on a tray, drizzle the olive oil on top, salt and pepper to taste and put aside.  If cooking in the BBQ, preheat to 375º F.  Place the short ribs on the grill with the bone side down for approximately 15-20 minutes, depending on the thickness of the ribs.  After 15-20 minutes flip the short ribs for another 10 minutes approximately, until it is done.    To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer.   If cooking in the oven, preheat to 425ºF.  Place the short ribs in a tray, with the bone side down.  Place the tray in the oven, in the middle rack, for 20-25 minutes, approximately, depending on the thickness of the ribs.  Flip the short ribs and put back in the oven for another 10 minutes, approximately, until it is done.  To make sure the short ribs are cooked, you can cut close to the bone and check if you like how well done or you can use a meat thermometer.  In the oven, if you like the short ribs crispy, put the oven in broil for 5 minutes. Enjoy!!! Tips:  For the recipe to be low sodium replace the salt with low sodium salt or use just pepper. "
+    "body": "2021/06/24 - This is a delicious plate of short ribs, accompanied by a tomatillo and avocado sauce, grilled peppers and a carrot salad. The short ribs can be prepared either in the barbecue or in the oven. "
     }, {
     "id": 23,
     "url": "/onion-saute/",
