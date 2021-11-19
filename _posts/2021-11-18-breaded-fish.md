@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cod & arugula and mushroom salad
+title:  Breaded Cod
 categories: [gf, paleo, dairy-free, sugar-free]
 image: assets/images/breaded-cod.jpeg
 traits: GF, DF, PA
